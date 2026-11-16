@@ -10,10 +10,12 @@ Trabalho prático da disciplina de Linguagem de Programação (Análise e Visual
 
 ## Estrutura do Repositório
 
-- `G2_Analise_Exploratoria_IDEB.ipynb`: Notebook com a importação, ETL dos dados do INEP, EDA e visualizações.
-- `index.html`: Artigo acadêmico estruturado em HTML para o GitHub Pages.
+- `notebooks/analise_exploratoria.ipynb`: Notebook com a importação, ETL dos dados do INEP, EDA e visualizações.
+- `docs/index.html`: Artigo acadêmico estruturado em HTML para o GitHub Pages.
+- `docs/assets/ideb_evolucao_comparativa.png`: Gráfico gerado em alta resolução.
+- `src/etl.py`: Script modularizado de extração e tratamento de dados.
+- `data/data_dictionary.md`: Dicionário de dados alinhado aos princípios FAIR.
 - `requirements.txt`: Dependências do projeto.
-- `ideb_evolucao_comparativa.png`: Gráfico gerado em alta resolução.
 
 ---
 
