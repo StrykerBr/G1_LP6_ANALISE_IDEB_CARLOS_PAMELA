@@ -15,7 +15,7 @@ Trabalho prático da disciplina de Linguagem de Programação (Análise e Visual
 - `docs/assets/ideb_evolucao_comparativa.png`: Gráfico gerado em alta resolução.
 - `src/etl.py`: Script modularizado de extração e tratamento de dados.
 - `data/data_dictionary.md`: Dicionário de dados alinhado aos princípios FAIR.
-- `requirements.txt`: Dependências do projeto.
+- `requirements.txt`: Dependências do projeto
 
 ---
 
